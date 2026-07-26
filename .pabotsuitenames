@@ -1,0 +1,20 @@
+datasources:51be221b3aa9c4339ebf29fc3ac877b07010825b
+commandlineoptions:5ea3922db11a42de3fa4c89e9d9f06972f891d9e
+suitesfrom:no-suites-from-option
+file:928bf22ad344ab16bf6797dd4a19924fbb04575f
+--suite Tests.AUI.TC-AC-UI-01 test
+--suite Tests.AUI.TC-AC-UI-02 and 03 test
+--suite Tests.AUI.TC-AC-UI-04
+--suite Tests.AUI.TC-REG-UI-01 and 02 test
+--suite Tests.AUI.TC-TF-UI-01 and 02 test
+--suite Tests.BNegative.TC-NEG-03 test
+--suite Tests.BNegative.TC-NEG-04 test
+--suite Tests.BNegative.TC-REG-UI-03 test
+--suite Tests.BNegative.TC-REG-UI-04 test
+--suite Tests.BNegative.TC-REG-UI-05 test
+--suite Tests.E2E.TC-E2E-01
+--suite Tests.E2E.TC-E2E-02
+--suite Tests.ZAPI.TC-API-01 test
+--suite Tests.ZAPI.TC-API-02 test
+--suite Tests.ZAPI.TC-API-03 test
+--suite Tests.ZAPI.TC-API-04 test
